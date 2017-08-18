@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Meta Share</string>
+    <string name="action_sign_in">Log ind</string>
+    <string name="error_field_required">Dette felt er påkrævet</string>
+    <string name="error_incorrect_password">Kodeordet er ugyldigt</string>
+    <string name="error_invalid_email">E-mail-adressen er ugyldig</string>
+    <string name="error_invalid_password">Kodeordet er ugyldigt</string>
+    <string name="prompt_email"></string>
+</resources>
